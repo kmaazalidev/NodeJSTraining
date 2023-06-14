@@ -1,0 +1,14 @@
+{
+  "name": "nodejstraining",
+  "version": "1.0.0",
+  "description": "Training Assignment For NodeJS - Session 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Khawaja Maaz Ali",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
